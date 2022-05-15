@@ -54,6 +54,12 @@ sidebar:
         
       - item: GNU Health
         link: https://www.gnuhealth.org/  
+        
+      - item: Project Management
+        link:
+        
+      - item: Information System Analysis and Developement
+        link:                
 
 
 career-profile:
@@ -215,12 +221,18 @@ skills:
 
       - name: Docker
         level: 50%              
+        
+      - name: GANTT Chart
+        level: 80%         
 
       - name: UML
         level: 60% 
         
       - name: BPMN
         level: 30% 
+
+      - name: SCRUM
+        level: 30%         
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
