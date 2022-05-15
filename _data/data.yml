@@ -121,7 +121,7 @@ projects:
 
       - title: Member of Open Source Team, University of Macedonia
         link: "http://opensource.uom.gr"
-        tagline: "Founding member of the open source team at University of Macedonia"
+        tagline: "Founding member of the open source team at the University of Macedonia"
     
       - title: Raspberry Pi Greek translation coordinator
         link: "http://rpf.io/translate"
@@ -129,21 +129,21 @@ projects:
 
       - title: Nextcloud Contributor, Greek translation coordinator, Engagement team, Event organization
         link: "http://nextcloud.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about Nextcloud, organize events, volunteer at conferences"
+        tagline: "Main activities: translation, speaking at conferences, blogging about Nextcloud, organizing events, volunteering at conferences"
         
       - title: GNOME Contributor, Greek translation coordinator, Engagement team, Event organization
         link: "http://gnome.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about GNOME, organize events, volunteer at conferences"
+        tagline: "Main activities: translation, speaking at conferences, blogging about GNOME, organizing events, volunteering at conferences"
 
       - title: ownCloud Contributor, Greek translation coordinator, Engagement team, Event organization
         link: "http://owncloud.com"
-        tagline: "Main activities: translation, speak at conferences, blogging about ownCloud, organize events, volunteer at conferences"
+        tagline: "Main activities: translation, speaking at conferences, blogging about ownCloud, organizing events, volunteering at conferences"
         
       - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
         link: "http://opensuse.gr"
-        tagline: "Main activities: translation, speak at conferences, blogging about openSUSE, organize events, volunteer at conferences" 
+        tagline: "Main activities: translation, speaking at conferences, blogging about openSUSE, organizing events, volunteering at conferences" 
 
-      - title: Member of the openSUSE Travel Support Program committee
+      - title: Member of the openSUSE Travel Support Program committee (Jan 2014 - Apr 2016)
         link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
         tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
 
@@ -171,12 +171,12 @@ publications:
         authors: Google
         conference: "Google"
 
-      - title: "Gamification as tool for health professionals for psychosomatic support of patients"
+      - title: "Gamification as a tool for health professionals for psychosomatic support of patients"
         link: "https://6epal-esp-thess.gr/article.php?id=20"
         authors: ERASMUS +
         conference: "ERASMUS +"
         
-      - title: "Quality assurance at small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
+      - title: "Quality assurance in small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
         link: "https://www.afs.edu.gr/"
         authors: American Farm School
         conference: "American Farm School"        
@@ -185,32 +185,42 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+    
+      - name: Linux
+        level: 95%    
+        
+      - name: Git
+        level: 90%
+    
       - name: HTML5 & CSS
         level: 95%
+
+      - name: Javascript
+        level: 40%
+
+      - name: C
+        level: 80%
 
       - name: Python
         level: 80%
 
       - name: Java
         level: 75%
-
-      - name: C
-        level: 80%
         
       - name: PHP
         level: 40%             
 
-      - name: Git
-        level: 90%
+      - name: SQL
+        level: 80%
 
       - name: Docker
-        level: 50%
+        level: 50%              
 
-      - name: SQL
-        level: 80%          
-
-      - name: Linux
-        level: 95%        
+      - name: UML
+        level: 60% 
+        
+      - name: BPMN
+        level: 30% 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
