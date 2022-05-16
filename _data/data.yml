@@ -13,8 +13,7 @@ sidebar:
 
     # Sidebar links
     email: stathis@iosifidis.gr
-    phone: +306999311075 (GR)
-    phone: +34603392992 (ES)
+    phone: +306999311075 (GR), +34603392992 (ES)
     citizenship: Greek
     website: iosifidis.gr #do not add http://
     linkedin: eiosifidis
@@ -66,7 +65,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator. Loves learning and sharing knowledge. Excellent team player.
+      Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator (documentation and video tutorials). Loves learning and sharing knowledge. Problem solving abilities. Excellent team player.
 
 education:
     - degree: Applied Informatics - Information Systems
