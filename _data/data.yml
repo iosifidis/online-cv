@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Efstathios Iosifidis, DVM
-    tagline: Junior Software Developer, Applied Informatics Student, Open Source Content Creator and Community Building, Event Organizer
+    tagline: Senior Applied Informatics Student | Junior Software Developer | Junior Project Manager | Open Source Advocate | Community Engineer | Event Organizer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -33,7 +33,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Professional
+        level: C2
         
       - idiom: Spanish
         level: A1
@@ -45,18 +45,6 @@ sidebar:
 
       - item: Technology
         link:
-
-      - item: openSUSE
-        link: https://www.opensuse.org/
-
-      - item: GNOME
-        link: https://www.gnome.org/
-
-      - item: Nextcloud
-        link: https://www.nextcloud.com/
-        
-      - item: GNU Health
-        link: https://www.gnuhealth.org/  
         
       - item: Project Management
         link:
@@ -68,46 +56,51 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Cloud enthusiast, religious about Linux, open-source supporter. Writes human-readable code. Passionate open-source content creator (documentation and video tutorials). Loves learning and sharing knowledge. Problem solving abilities. Excellent team player.
+      As a junior software developer with experience in Python, PHP, and Java, I bring a strong foundation in programming concepts and a passion for building innovative solutions. With a keen eye for detail, I thrive on collaborating with teams to deliver high-quality software that meets business needs. As a junior project manager, I also have experience in organizing and coordinating projects, ensuring that timelines and budgets are met while keeping stakeholders informed and engaged. With my skills and drive, I am eager to contribute to your team and take on new challenges in the world of software development.
 
 education:
     - degree: Applied Informatics - Information Systems
       university: University of Macedonia (UoM)
       time: 2020 - present
       details: |
-        Skils: C, Algorithms, Mathematical analysis, Linear algebra, Computer systems, Management information systems, Introduction to computer science, Data structures with C, Discrete mathematics, Data base with MySQL, Computer architecture, Probabilities and statistics, Management and technology, Computer networks, Information systems, Operating systems, Object oriented programming, Financial accounting, E-Business, Informatics Law and Ethics.	
+        Activities and societies: Representative of the Students in the Assembly and Deanery (year 2023)
+                                  Gender Equality and Anti-Discrimination Committee Member (2023)	
     - degree: Junior Software Developer
       university: 6th Vocational School of Thessaloniki
       time: 2017 - 2020
       details: |
-        Skils: Python, SQL, PHP, HTML, CSS
+        Skills: Python, SQL, PHP, HTML, CSS
     - degree: Veterinarian
       university: Aristotele University of Thessaloniki
       time: 2004 - 2017
       details: |
-        Skils: Small and Farm animal pathologist, Food inspector
+        Skills: Small and Farm animal pathologist, Food inspector
     - degree: Farm Animal Manager
       university: Technological Institution of Thessaloniki
       time: 1993 - 1999
       details: |
-        Skils: Farm management                    
+        Skills: Farm management                    
 
 experiences:
+    - role: Project Manager
+      time: Jun 2022 - Nov 2022
+      company: my.uom.gr, University of Macedonia, Thessaloniki
+      details: |
+         An information system that helps students to interact with the university.
+         Interviewed by National Television and local tv station about myUoM.
+    
     - role: Veterinarian
       time: 2017 - Present
       company: Freelancer, Thessaloniki
       details: |
         Pathologist, Anesthesiologist, Web designer, and content creator for many veterinary practices.
-    - role: Northern Greece rep
-      time: 2018 - Present
-      company: Petmobility.gr
-      details: |
-        Web page design and social media management. Representative in Northern Greece
+    
     - role: Office employee at wholesale warehouse
       time: 2004 - 2005
       company: Nino Toys, Thessaloniki
       details: |
         Invoicing and order preparation, contact with suppliers abroad for container preparation
+    
     - role: Military Service
       time: 1999 - 2001
       company: Greek Army
@@ -128,7 +121,7 @@ projects:
         link: "https://2019.guadec.org/"
         tagline: "GUADEC, the GNOME Users And Developers European Conference, is an annual conference taking place in Europe, whose prime topic is the development of the GNOME desktop environment and its underlying base software."
 
-      - title: Member of Open Source Team, University of Macedonia
+      - title: Open Source Team, University of Macedonia
         link: "http://opensource.uom.gr"
         tagline: "Founding member of the open source team at the University of Macedonia"
     
@@ -144,17 +137,9 @@ projects:
         link: "http://gnome.gr"
         tagline: "Main activities: translation, speaking at conferences, blogging about GNOME, organizing events, volunteering at conferences"
 
-      - title: ownCloud Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://owncloud.com"
-        tagline: "Main activities: translation, speaking at conferences, blogging about ownCloud, organizing events, volunteering at conferences"
-        
       - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
         link: "http://opensuse.gr"
         tagline: "Main activities: translation, speaking at conferences, blogging about openSUSE, organizing events, volunteering at conferences" 
-
-      - title: Member of the openSUSE Travel Support Program committee (Jan 2014 - Apr 2016)
-        link: "https://en.opensuse.org/openSUSE:Travel_Support_Program"
-        tagline: "The openSUSE Travel Support Program aims to support contributors representing openSUSE at events, conferences and hack-fests with their travel and hotel costs."
 
       - title: GNU Health contributor
         link: "https://www.gnuhealth.org/"
