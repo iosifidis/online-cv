@@ -82,30 +82,23 @@ education:
       Skills: Farm management
 
 experiences:
+  - role: Public Sector Business Analyst Intern
+    time: Nov 2023 - Jan 2024
+    company: Netcompany-Intrasoft, Thessaloniki
+    details: |
+      Unraveled complex functionalities through code analysis and reverse engineering of legacy systems.
+
   - role: Project Manager
     time: Jun 2022 - Nov 2022
     company: my.uom.gr, University of Macedonia, Thessaloniki
     details: |
       An information system that helps students to interact with the university.
-      Interviewed by National Television and local tv station about myUoM.
 
   - role: Veterinarian
     time: 2017 - Present
     company: Freelancer, Thessaloniki
     details: |
       Pathologist, Anesthesiologist, Web designer, and content creator for many veterinary practices.
-
-  - role: Office employee at wholesale warehouse
-    time: 2004 - 2005
-    company: Nino Toys, Thessaloniki
-    details: |
-      Invoicing and order preparation, contact with suppliers abroad for container preparation
-
-  - role: Military Service
-    time: 1999 - 2001
-    company: Greek Army
-    details: |
-      Confidential
 
 projects:
   title: Project Management and Leadership volunteer tasks
@@ -146,7 +139,7 @@ projects:
 
     - title: Open Source Contributor since 2010
       link: "http://iosifidis.gr"
-      tagline: "Raspberry Pi and GNOME translation coordinator, Nextcloud, openSUSE, GNU Health, ONLYOFFICE."
+      tagline: "Communities: Raspberry Pi and GNOME translation coordinator, Nextcloud, openSUSE, GNU Health, ONLYOFFICE."
 
 publications:
   title: Certifications
@@ -163,67 +156,27 @@ publications:
       authors: Google
       conference: "Google"
 
-    - title: "Gamification as a tool for health professionals for psychosomatic support of patients"
-      link: "https://6epal-esp-thess.gr/article.php?id=20"
-      authors: ERASMUS +
-      conference: "ERASMUS +"
-
-    - title: "Quality assurance in small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
-      link: "https://www.afs.edu.gr/"
-      authors: American Farm School
-      conference: "American Farm School"
-
 skills:
-  title: Skills &amp; Proficiency
+  title: Hard Skills
 
   toolset:
-    - name: Linux
-      level: 95%
-
-    - name: Git
+    - name: BPMN, DMN, GANTT, UML, SCRUM
       level: 90%
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Jira, Asana, Git
+      level: 90%
 
-    - name: Javascript
-      level: 40%
-
-    - name: C
-      level: 80%
-
-    - name: Python
-      level: 80%
-
-    - name: Java
-      level: 75%
-
-    - name: PHP
-      level: 40%
-
-    - name: SQL
-      level: 80%
-
-    - name: Docker
-      level: 50%
-
-    - name: GANTT Chart
-      level: 80%
-
-    - name: UML
-      level: 80%
-
-    - name: BPMN
-      level: 80%
-
-    - name: SCRUM
+    - name: Python, Java, C,
       level: 70%
 
-    - name: Jira
-      level: 80%
+    - name: SQL, PHP, JS, HTML5, CSS
+      level: 75%
 
-    - name: Asana
-      level: 90%
+    - name: Linux,  Docker, Networking
+      level: 85%
+
+    - name: Technical Writing (documentation)
+      level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
