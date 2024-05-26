@@ -3,225 +3,227 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Efstathios Iosifidis, DVM
-    tagline: Senior Applied Informatics Student | Junior Software Developer | Junior Project Manager | Open Source Advocate | Community Engineer | Event Organizer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Efstathios Iosifidis, DVM
+  tagline: Junior Project Manager | Junior Business Analyst | Junior Software Reverse Engineer | Open Source Advocate | Community Engineer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: stathis@iosifidis.gr
-    #phone: +34603392992
-    citizenship: Greek
-    website: iosifidis.gr #do not add http://
-    linkedin: eiosifidis
-    xing: 
-    github: iosifidis
-    #telegram: iosifidis # add your nickname without '@' sign
-    gitlab: eiosifidis
-    bitbucket:
-    twitter: '@eiosifidis'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
+  # Sidebar links
+  email: eiosifidis@gmail.com
+  #phone: +34603392992
+  citizenship: Greek
+  website: iosifidis.gr #do not add http://
+  linkedin: eiosifidis
+  xing:
+  github: iosifidis
+  #telegram: iosifidis # add your nickname without '@' sign
+  gitlab: eiosifidis
+  bitbucket:
+  twitter: "@nexteiosifidis"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: http://iosifidis.github.io/online-cv/files/Efstathios_Iosifidis_Resume.pdf
 
-    languages:
-      - idiom: Greek
-        level: Native
+  languages:
+    - idiom: Greek
+      level: Native
 
-      - idiom: English
-        level: C2
-        
-      - idiom: Spanish
-        level: A1
+    - idiom: English
+      level: C2
 
+    - idiom: Spanish
+      level: A2
 
-    interests:
-      - item: Traveling
-        link:
+  interests:
+    - item: Traveling
+      link:
 
-      - item: Technology
-        link:
-        
-      - item: Project Management
-        link:
-        
-      - item: Information System Analysis and Developement
-        link:                
+    - item: Technology
+      link:
 
+    - item: Project Management
+      link:
+
+    - item: Information System Analysis and Developement
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      As a junior software developer with experience in Python, PHP, and Java, I bring a strong foundation in programming concepts and a passion for building innovative solutions. With a keen eye for detail, I thrive on collaborating with teams to deliver high-quality software that meets business needs. As a junior project manager, I also have experience in organizing and coordinating projects, ensuring that timelines and budgets are met while keeping stakeholders informed and engaged. With my skills and drive, I am eager to contribute to your team and take on new challenges in the world of software development.
+  title: Career Profile
+  summary: |
+    With a background in veterinary medicine and a current focus on Applied Informatics, I bring a diverse skill set and a unique perspective to my role as a Junior Project Manager, ensuring efficient project execution through strong organizational skills and attention to detail.
 
 education:
-    - degree: Applied Informatics - Information Systems
-      university: University of Macedonia (UoM)
-      time: 2020 - present
-      details: |
-        Activities and societies: Representative of the Students in the Assembly and Deanery (year 2023)
-                                  Gender Equality and Anti-Discrimination Committee Member (2023)	
-    - degree: Junior Software Developer
-      university: 6th Vocational School of Thessaloniki
-      time: 2017 - 2020
-      details: |
-        Skills: Python, SQL, PHP, HTML, CSS
-    - degree: Veterinarian
-      university: Aristotele University of Thessaloniki
-      time: 2004 - 2017
-      details: |
-        Skills: Small and Farm animal pathologist, Food inspector
-    - degree: Farm Animal Manager
-      university: Technological Institution of Thessaloniki
-      time: 1993 - 1999
-      details: |
-        Skills: Farm management                    
+  - degree: Applied Informatics - Information Systems
+    university: University of Macedonia (UoM)
+    time: 2020 - 2024
+    details: |
+      Activities and societies: Google Developer Student Club (GDSC) UoM (2023-2024),
+                                Open Source Team UoM founding memeber (2021), 
+                                Representative of the Students in the Assembly and Deanery (year 2023)
+                                Gender Equality and Anti-Discrimination Committee Member (2023)
+  - degree: Junior Software Developer
+    university: 6th Vocational School of Thessaloniki
+    time: 2017 - 2020
+    details: |
+      Skills: Python, SQL, PHP, HTML, CSS
+  - degree: Veterinarian
+    university: Aristotele University of Thessaloniki
+    time: 2004 - 2017
+    details: |
+      Skills: Small and Farm animal pathologist, Food inspector
+  - degree: Farm Animal Manager
+    university: Technological Institution of Thessaloniki
+    time: 1993 - 1999
+    details: |
+      Skills: Farm management
 
 experiences:
-    - role: Project Manager
-      time: Jun 2022 - Nov 2022
-      company: my.uom.gr, University of Macedonia, Thessaloniki
-      details: |
-         An information system that helps students to interact with the university.
-         Interviewed by National Television and local tv station about myUoM.
-    
-    - role: Veterinarian
-      time: 2017 - Present
-      company: Freelancer, Thessaloniki
-      details: |
-        Pathologist, Anesthesiologist, Web designer, and content creator for many veterinary practices.
-    
-    - role: Office employee at wholesale warehouse
-      time: 2004 - 2005
-      company: Nino Toys, Thessaloniki
-      details: |
-        Invoicing and order preparation, contact with suppliers abroad for container preparation
-    
-    - role: Military Service
-      time: 1999 - 2001
-      company: Greek Army
-      details: |
-        Confidential
-        
+  - role: Project Manager
+    time: Jun 2022 - Nov 2022
+    company: my.uom.gr, University of Macedonia, Thessaloniki
+    details: |
+      An information system that helps students to interact with the university.
+      Interviewed by National Television and local tv station about myUoM.
+
+  - role: Veterinarian
+    time: 2017 - Present
+    company: Freelancer, Thessaloniki
+    details: |
+      Pathologist, Anesthesiologist, Web designer, and content creator for many veterinary practices.
+
+  - role: Office employee at wholesale warehouse
+    time: 2004 - 2005
+    company: Nino Toys, Thessaloniki
+    details: |
+      Invoicing and order preparation, contact with suppliers abroad for container preparation
+
+  - role: Military Service
+    time: 1999 - 2001
+    company: Greek Army
+    details: |
+      Confidential
+
 projects:
-    title: Volunteer
-    intro: >
-      My volunteer work for open source projects.
-    assignments:
- 
-      - title: FOSSCOMM organizing committee
-        link: "https://2021.fosscomm.gr/"
-        tagline: "FOSSCOMM is an annual conference organized by Greek Free/Open Source Software communities. Taking place in a different city every year, it welcomes open technology communities, companies and programmers."
+  title: Project Management and Leadership volunteer tasks
+  intro: >
+    My volunteer work for open source projects.
+  assignments:
+    - title: Google Developer Group Cloud Thessaloniki
+      link: "https://gdg.community.dev/gdg-cloud-thessaloniki/"
+      tagline: "GDG is made up of a very diverse group of people, countries, companies, and expertise."
 
-      - title: GUADEC organizing committee
-        link: "https://2019.guadec.org/"
-        tagline: "GUADEC, the GNOME Users And Developers European Conference, is an annual conference taking place in Europe, whose prime topic is the development of the GNOME desktop environment and its underlying base software."
+    - title: Google Summer of Code mentor 2024
+      link: "https://ellak.gr/wiki/index.php?title=Google_Summer_of_Code_2024_proposed_ideas#MyUni"
+      tagline: "<b>Title:</b> MyUni - Developing a versatile, accessible university WebApp. <b>Student:</b> sankalpie"
 
-      - title: Open Source Team, University of Macedonia
-        link: "http://opensource.uom.gr"
-        tagline: "Founding member of the open source team at the University of Macedonia"
-    
-      - title: Raspberry Pi Greek translation coordinator
-        link: "http://rpf.io/translate"
-        tagline: "Link between Greek translators and Raspberry Pi Foundation"     
+    - title: Google Developer Student Club Lead at University of Macedonia
+      link: "https://gdsc.community.dev/university-of-macedonia-thessaloniki-greece/"
+      tagline: "The GDSC UoM is a community group for all members of the University of Macedonia, interested in Google developer technologies."
 
-      - title: Nextcloud Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://nextcloud.gr"
-        tagline: "Main activities: translation, speaking at conferences, blogging about Nextcloud, organizing events, volunteering at conferences"
-        
-      - title: GNOME Contributor, Greek translation coordinator, Engagement team, Event organization
-        link: "http://gnome.gr"
-        tagline: "Main activities: translation, speaking at conferences, blogging about GNOME, organizing events, volunteering at conferences"
+    - title: KDE Akademy organizing committee
+      link: "https://akademy.kde.org/2023/"
+      tagline: "KDE Akademy is the annual conference of the KDE community"
 
-      - title: openSUSE Contributor, Greek translation coordinator, Advocate, Event organization
-        link: "http://opensuse.gr"
-        tagline: "Main activities: translation, speaking at conferences, blogging about openSUSE, organizing events, volunteering at conferences" 
+    - title: FOSSCOMM organizing committee
+      link: "https://2021.fosscomm.gr/"
+      tagline: "FOSSCOMM is an annual conference organized by Greek Free/Open Source Software communities. Taking place in a different city every year, it welcomes open technology communities, companies and programmers."
 
-      - title: GNU Health contributor
-        link: "https://www.gnuhealth.org/"
-        tagline: "The GNU Health project provides the tools for individuals, health professionals, institutions and governments to proactively assess and improve the underlying determinants of health, from the socioeconomic agents to the molecular basis of disease. From primary health care to precision medicine."
+    - title: GUADEC organizing committee
+      link: "https://2019.guadec.org/"
+      tagline: "GUADEC, the GNOME Users And Developers European Conference, is an annual conference taking place in Europe, whose prime topic is the development of the GNOME desktop environment and its underlying base software."
 
-      - title: Google Summer of Code mentor
-        link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
-        tagline: "<b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options. <b>Student:</b> Fani Dimou"
+    - title: Open Source Team, University of Macedonia
+      link: "http://opensource.uom.gr"
+      tagline: "Founding member of the open source team at the University of Macedonia"
+
+    - title: Google Summer of Code mentor 2019
+      link: "https://summerofcode.withgoogle.com/projects/#4606264338808832"
+      tagline: "<b>Title:</b> The missing features of NextCloudPi: Automatic installation and integration of several apps on NextCloudPi and implementation of new features and options. <b>Student:</b> Fani Dimou"
+
+    - title: Open Source Contributor since 2010
+      link: "http://iosifidis.gr"
+      tagline: "Raspberry Pi and GNOME translation coordinator, Nextcloud, openSUSE, GNU Health, ONLYOFFICE."
 
 publications:
-    title: Certifications
-    intro: |
-      My major certifications among others.
-    papers:
-    
-      - title: "CyberOps Associate"
-        link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
-        authors: Cisco
-        conference: "Cisco"    
-    
-      - title: "Basic principles of digital marketing"
-        link: "#"
-        authors: Google
-        conference: "Google"
+  title: Certifications
+  intro: |
+    My major certifications among others.
+  papers:
+    - title: "CyberOps Associate"
+      link: "https://www.credly.com/badges/460b76d9-0f9f-4d99-889d-1d2f6c24dd4a"
+      authors: Cisco
+      conference: "Cisco"
 
-      - title: "Gamification as a tool for health professionals for psychosomatic support of patients"
-        link: "https://6epal-esp-thess.gr/article.php?id=20"
-        authors: ERASMUS +
-        conference: "ERASMUS +"
-        
-      - title: "Quality assurance in small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
-        link: "https://www.afs.edu.gr/"
-        authors: American Farm School
-        conference: "American Farm School"        
+    - title: "Basic principles of digital marketing"
+      link: "#"
+      authors: Google
+      conference: "Google"
+
+    - title: "Gamification as a tool for health professionals for psychosomatic support of patients"
+      link: "https://6epal-esp-thess.gr/article.php?id=20"
+      authors: ERASMUS +
+      conference: "ERASMUS +"
+
+    - title: "Quality assurance in small industry and food industry (HACCP-ISO 9000,14000-AGRO 2.1-2.2)"
+      link: "https://www.afs.edu.gr/"
+      authors: American Farm School
+      conference: "American Farm School"
 
 skills:
+  title: Skills &amp; Proficiency
 
-    title: Skills &amp; Proficiency
+  toolset:
+    - name: Linux
+      level: 95%
 
-    toolset:
-    
-      - name: Linux
-        level: 95%    
-        
-      - name: Git
-        level: 90%
-    
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Git
+      level: 90%
 
-      - name: Javascript
-        level: 40%
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: C
-        level: 80%
+    - name: Javascript
+      level: 40%
 
-      - name: Python
-        level: 80%
+    - name: C
+      level: 80%
 
-      - name: Java
-        level: 75%
-        
-      - name: PHP
-        level: 40%             
+    - name: Python
+      level: 80%
 
-      - name: SQL
-        level: 80%
+    - name: Java
+      level: 75%
 
-      - name: Docker
-        level: 50%              
-        
-      - name: GANTT Chart
-        level: 80%         
+    - name: PHP
+      level: 40%
 
-      - name: UML
-        level: 60% 
-        
-      - name: BPMN
-        level: 30% 
+    - name: SQL
+      level: 80%
 
-      - name: SCRUM
-        level: 30%         
+    - name: Docker
+      level: 50%
+
+    - name: GANTT Chart
+      level: 80%
+
+    - name: UML
+      level: 80%
+
+    - name: BPMN
+      level: 80%
+
+    - name: SCRUM
+      level: 70%
+
+    - name: Jira
+      level: 80%
+
+    - name: Asana
+      level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
