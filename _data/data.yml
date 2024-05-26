@@ -161,22 +161,17 @@ skills:
 
   toolset:
     - name: BPMN, DMN, GANTT, UML, SCRUM
-      level: 90%
 
     - name: Jira, Asana, Git
-      level: 90%
 
     - name: Python, Java, C,
-      level: 70%
 
     - name: SQL, PHP, JS, HTML5, CSS
-      level: 75%
 
-    - name: Linux,  Docker, Networking
-      level: 85%
+    - name: Linux, Docker, Networking
 
     - name: Technical Writing (documentation)
-      level: 80%
+      level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
